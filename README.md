@@ -78,6 +78,4 @@ The notebook provides a comparative analysis of the performance of models using 
 
 By leveraging pre-trained word embeddings such as Word2Vec and GloVe, the notebook demonstrates improved sentiment analysis performance. It also highlights the nuances of using different embeddings and their impact on the classification results.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
